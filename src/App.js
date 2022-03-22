@@ -16,6 +16,10 @@ function App() {
             <PetDetailsPage />
           </Route>
 
+          <Route path="/search">
+            <SearchPage/>
+          </Route>
+
           <Route path="/:type?">
             <HomePage />
           </Route>
