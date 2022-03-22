@@ -4,7 +4,7 @@ import { getPets } from '../../api/petfinder';
 import Pet from '../../components/pet';
 import { useLocation } from 'react-router-dom';
 
-// import useLocation here
+
 
 const SearchPage = () => {
 

@@ -1,8 +1,6 @@
-import React, { useRef, useMemo } from 'react';
-import { useHistory, useLocation } from 'react-router-dom';
+import React, { useRef } from 'react';
+import { useHistory } from 'react-router-dom';
 
-
-// import useHistory here.
 
 const Search = () => {
 
